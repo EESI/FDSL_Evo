@@ -1,0 +1,8 @@
+receptor = Sprotein_RBD.pdbqt
+exhaustiveness  = 8
+center_x = -27.8379458715
+center_y = 25.5296283273
+center_z = 5.26997076229
+size_x = 22.0000000000
+size_y = 42.0000000000
+size_z = 22.0000000000

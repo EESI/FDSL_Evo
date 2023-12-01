@@ -1,0 +1,8 @@
+receptor = 3F4M.pdbqt
+exhaustiveness = 8
+center_x = 65.2109912409
+center_y = 12.2166927275
+center_z = 19.5197619743
+size_x = 25.0
+size_y = 25.0000981696
+size_z = 20.983420199

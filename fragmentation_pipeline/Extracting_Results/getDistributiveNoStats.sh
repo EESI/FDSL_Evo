@@ -3,12 +3,10 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=32G
-#SBATCH --account=rosenMRIPrj
 #SBATCH --time=12:00:00
 ### Whatever modules you used (e.g. picotte-openmpi/gcc)
 ### must be loaded to run your code.
 ### Add them below this line.
-#SBATCH --partition=def
 . ~/.bashrc
 conda init bash
 conda activate CONDA_ENV

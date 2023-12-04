@@ -3,12 +3,10 @@
 #SBATCH --ntasks=41
 #SBATCH --cpus-per-task=6
 #SBATCH --mem=10G
-#SBATCH --account=rosenMRIPrj
 #SBATCH --time=3:00:00
 ### Whatever modules you used (e.g. picotte-openmpi/gcc)
 ### must be loaded to run your code.
 ### Add them below this line.
-#SBATCH --partition=def
 #SBATCH --array=0-100
 
 
